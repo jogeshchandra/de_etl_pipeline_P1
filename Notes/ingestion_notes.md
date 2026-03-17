@@ -177,5 +177,5 @@ When asked to design an ingestion layer, walk through this out loud:
 | Monitoring/Alerting   | Datadog, AWS CloudWatch, PagerDuty         |
 
 ---
-
+addedn two 
 *Notes built during COVID Pipeline project — March 2026*
